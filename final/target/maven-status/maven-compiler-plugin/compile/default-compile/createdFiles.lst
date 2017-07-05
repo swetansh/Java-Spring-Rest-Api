@@ -1,0 +1,9 @@
+com\swet\dto\Employee.class
+com\swet\controller\AppController.class
+com\swet\repository\ProjectRepo.class
+com\swet\repository\EmployeeRepo.class
+com\swet\config\WebAppConfig.class
+com\swet\config\InfrastructureConfig.class
+com\swet\config\ApplicationConfig.class
+com\swet\config\DataSourceConfig.class
+com\swet\dto\Project.class
